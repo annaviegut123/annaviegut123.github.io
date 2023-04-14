@@ -148,8 +148,8 @@ ul {
 
 .case-studies {
     display: block;
+    overflow: auto;
     background-color: black;
-    height: auto;
 }
 
 .virginia {
