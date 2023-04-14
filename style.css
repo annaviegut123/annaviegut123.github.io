@@ -149,6 +149,7 @@ ul {
 .case-studies {
     display: block;
     background-color: black;
+    height: auto;
 }
 
 .virginia {
