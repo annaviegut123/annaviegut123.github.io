@@ -17,7 +17,7 @@ html {
 .hero {
     padding-top: 15%;
     flex-direction: row;
-    background-image: url(Images/main-background.png);
+    background-image: url(./Images/main-background.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
