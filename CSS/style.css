@@ -391,7 +391,7 @@ footer {
 
 .addventure-header {
     background-color: #E8E8EA;
-    height: 15%;
+    overflow: auto;
 }
 
 .addventure-header-heading {
