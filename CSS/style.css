@@ -272,7 +272,7 @@ footer {
 
 .about-header {
     background-color: #E8E8EA;
-    height: 15%;
+    overflow: auto;
 }
 
 .about-header-heading {
@@ -364,7 +364,7 @@ footer {
 
 .skills-tools {
     background-color: #E8E8EA;
-    height: 100%;
+    overflow: auto;
 }
 
 .skills-heading {
