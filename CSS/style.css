@@ -151,7 +151,7 @@ li {
 .case-studies {
     display: block;
     background-color: black;
-    height: 100%;
+    overflow: auto;
 }
 
 .virginia {
