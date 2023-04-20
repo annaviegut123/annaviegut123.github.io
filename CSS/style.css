@@ -673,6 +673,23 @@ footer {
 /* extra small devices (phones, 600px and down) */
 
 @media only screen and (max-width: 600px) {
+    
+/*  home page header hero section styles */
+
+.hero {
+    padding-top: 15%;
+    flex-direction: row;
+    background-image: url(../Images/main-background.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+.hero-text {
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-bottom: 18%;
+}
 
 /* navigation menu styles */
 
