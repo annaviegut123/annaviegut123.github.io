@@ -19,6 +19,7 @@ html {
     flex-direction: row;
     background-image: url(../Images/main-background.png);
     background-repeat: no-repeat;
+    background-size: 100% auto;
     background-attachment: fixed;
     overflow: auto;
 }
