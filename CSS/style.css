@@ -696,8 +696,8 @@ footer {
 .hamburger {
     position: fixed;
     z-index: 100;
-    top: 1.5rem;
-    right: 1.5rem;
+    top: 1rem;
+    right: 1rem;
     border: none;
     background: #E8E8EA;
     cursor: pointer;
