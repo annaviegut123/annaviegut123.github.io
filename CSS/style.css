@@ -675,5 +675,56 @@ footer {
 
 /* header hero section styles */
 
+/* navigation menu styles */
+
+.hamburger {
+    position: fixed;
+    z-index: 100;
+    top: 1.5rem;
+    right: 1.5rem;
+    border: none;
+    background: #E8E8EA;
+    cursor: pointer;
+    width: 2rem;
+    height: 2rem;
+}
+
+.menuIcon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.closeIcon {
+    display: none;
+    visibility: hidden;
+    width: 2rem;
+    height: 2rem;
+}
+
+.menu {
+    left: 0%;
+    border-left: none;
+  }
+
+.menuItem {
+    font-size: 7vw;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 1.8vw;
+    padding-top: 8vw;
+    padding-left: 5vw;
+}
+
+.social-icons-nav {
+    display: inline-block;
+    justify-content: center;
+}
+
+.social-icon-nav {
+    width: 12vw;
+    height: 12vw;
+    margin-right: 1vw;
+    margin-left: 6vw;
+    margin-top: 12%;
+}
 
 }
