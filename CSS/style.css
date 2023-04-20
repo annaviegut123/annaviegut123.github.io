@@ -674,8 +674,6 @@ footer {
 
 @media only screen and (max-width: 600px) {
 
-/* header hero section styles */
-
 /* navigation menu styles */
 
 .hamburger {
@@ -727,6 +725,8 @@ footer {
     margin-left: 6vw;
     margin-top: 12%;
 }
+    
+/* about page specific styles */
     
     .about-me-image-2 {
     padding-top: 10%;
