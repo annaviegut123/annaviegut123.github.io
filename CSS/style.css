@@ -688,7 +688,7 @@ footer {
 .hero-text {
     margin-left: 50%;
     margin-right: 6%;
-    padding-bottom: 15%;
+    overflow: auto;
 }
 
 /* navigation menu styles */
