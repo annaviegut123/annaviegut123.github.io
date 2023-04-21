@@ -745,12 +745,24 @@ footer {
     
 /* about page specific styles */
     
-    .about-me-image-2 {
+.about-me-image-2 {
     padding-top: 10%;
 }
     
-    .skills-heading {
+.skills-heading {
     padding-top: 10%;
+}
+    
+.about-hero-heading {
+    padding-top: 15%;
+}
+
+.about-hero-paragraph {
+
+}
+
+.about-me-image-1 {
+
 }
 
 }
