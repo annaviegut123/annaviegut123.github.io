@@ -15,7 +15,7 @@ html {
 /*  home page header hero section styles */
 
 .hero {
-    padding-top: 10%;
+    padding-top: 15%;
     flex-direction: row;
     background-image: url(../Images/main-background.png);
     background-repeat: no-repeat;
