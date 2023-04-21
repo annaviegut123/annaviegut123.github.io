@@ -766,13 +766,13 @@ footer {
 /* addventure page specific styles */
     
 .addventure-feature-prioritization-1 {
-    width: auto;
-    height: 30vh;
+    width: 100px;
+    height: 60px;
 }
 
 .addventure-feature-prioritization-2 {
-    width: 40vw;
-    height: auto;
+    width: 100px;
+    height: 60px;
     margin-right: 10%;
 }
 
