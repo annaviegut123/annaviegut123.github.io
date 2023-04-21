@@ -766,8 +766,8 @@ footer {
 /* addventure page specific styles */
     
 .addventure-feature-prioritization-1 {
-    width: 40vw;
-    height: auto;
+    width: auto;
+    height: 30vh;
 }
 
 .addventure-feature-prioritization-2 {
